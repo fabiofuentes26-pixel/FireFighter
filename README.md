@@ -17,3 +17,8 @@ Fabio Fuentes
 
 ## ALIAS
 @ FireFighter
+
+## Colaboració
+
+Aquest canvi l'he realitzat com a colaborador
+del repositori del meu company
